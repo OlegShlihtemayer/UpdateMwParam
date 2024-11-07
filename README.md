@@ -25,6 +25,7 @@ Donec aliquet placerat faucibus:
 - Maecenas elit purus
 - Nunc sit amet laoreet risus at porta turpis
 
+
 settings.json
 
 ```json
@@ -34,16 +35,4 @@ settings.json
 "URL":"http://localhost:8080"
 }
 ```
-
-
-
-![image](/img/http_call_rule.png)
-
-![alt text](https://github.com/glebowadim/test_repo/blob/master/img/icon.png?raw=true)
-
-![image](img/http_call_rule123.png)
-
-
-
-
 
