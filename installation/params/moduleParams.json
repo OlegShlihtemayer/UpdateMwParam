@@ -9,7 +9,7 @@
   "orderNumber" : 1,
   "isRequired" : false
 },
-[{
+{
   "name" : "text1",
   "typeId": 0,
   "value": "",

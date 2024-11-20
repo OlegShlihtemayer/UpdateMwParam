@@ -1,17 +1,27 @@
 [{
   "name" : "text",
   "typeId": 0,
-  "value": "texttext",
+  "value": "",
   "paramSql" : "",
   "description" : "some Text",
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 1,
   "isRequired" : false
+},
+{
+  "name" : "text1",
+  "typeId": 0,
+  "value": "",
+  "paramSql" : "",
+  "description" : "some Text",
+  "isReadOnly" : false,
+  "isHidden" : true,
+  "isRequired" : false
 },{
   "name" : "number",
   "typeId": 1,
-  "value": "11",
+  "value": "",
   "paramSql" : "",
   "description" : "some Number",
   "isReadOnly" : false,
@@ -31,29 +41,13 @@
 },{
   "name" : "password",
   "typeId": 8,
-  "value": "psswrd",
+  "value": "",
   "paramSql" : "",
   "description" : "some Password",
   "isReadOnly" : false,
   "isHidden" : false,
   "orderNumber" : 2,
   "isRequired" : true
-},{
-  "name" : "sqlqueryselector",
-  "typeId": 90,
-  "value": "select 1 from dual",
-  "paramSql" : "",
-  "description" : "some Sql Query Selector",
-  "isReadOnly" : false,
-  "isHidden" : false
-},{
-  "name" : "userselector",
-  "typeId": 150,
-  "value": "100095147",
-  "paramSql" : "",
-  "description" : "some User Selector",
-  "isReadOnly" : false,
-  "isHidden" : false
 },{
   "name" : "latitude",
   "typeId": 160,
