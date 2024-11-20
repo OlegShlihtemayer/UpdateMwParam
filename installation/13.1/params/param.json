@@ -1,9 +1,0 @@
-[{
-    "name" : "Token1",
-    "typeId": 8,
-    "value": "",
-    "paramSql" : "",
-    "description" : "OneVizion API token",
-    "isReadOnly" : true,
-    "isHidden" : false
-}]
