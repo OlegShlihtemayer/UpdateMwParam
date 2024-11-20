@@ -41,7 +41,7 @@
 },{
   "name" : "password",
   "typeId": 8,
-  "value": "psswrd",
+  "value": "",
   "paramSql" : "",
   "description" : "some Password",
   "isReadOnly" : false,
