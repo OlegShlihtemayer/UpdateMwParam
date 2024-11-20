@@ -17,7 +17,7 @@
   "description" : "some Text",
   "isReadOnly" : false,
   "isHidden" : true,
-  "isRequired" : false
+  "isRequired" : true
 },{
   "name" : "number",
   "typeId": 1,
