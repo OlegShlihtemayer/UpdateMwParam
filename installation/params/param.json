@@ -1,9 +1,0 @@
-[{
-    "name" : "SQL",
-    "typeId": 90,
-    "value": "",
-    "paramSql" : "",
-    "description" : "SQL",
-    "isReadOnly" : false,
-    "isHidden" : false
-}]
